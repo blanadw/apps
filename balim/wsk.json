@@ -7,8 +7,6 @@
   "REST_API_KEY_REDIRECTION": "cda113XsbvfClpTHK0gN1iS2IVE6AUrWRzejByLYwkm7OqQ5do",
   
   "BLACK_LIST" : "us,uk,es,in,ie,ae,qa",
-  
-  "VPN_URL"    : "https://raw.githubusercontent.com/gitads2022/data/main/MrVpnController.json",
 
   "status": "ok",
   "app": {
@@ -24,7 +22,7 @@
     "providers": "onesignal",
     "protocol_type": "http",
     "fcm_notification_topic": "the_stream_topic",
-    "more_apps_url": "https://play.google.com/store/apps/details?id=com.app.yacine.tv.v6",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Balima",
     "youtube_api_key": 0
   },
   "ads": {
