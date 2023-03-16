@@ -7,6 +7,8 @@
   "REST_API_KEY_REDIRECTION": "cda113XsbvfClpTHK0gN1iS2IVE6AUrWRzejByLYwkm7OqQ5do",
   
   "BLACK_LIST" : "us,uk,es,in,ie,ae,qa",
+  
+  "VPN_URL"    : "https://raw.githubusercontent.com/gitads2022/data/main/MrVpnController.json",
 
   "status": "ok",
   "app": {
