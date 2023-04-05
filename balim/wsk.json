@@ -10,8 +10,8 @@
 
   "status": "ok",
   "app": {
-    "status": 1,
-    "redirect_url": "https://play.google.com/store/apps/details?id=com.tlfazat.batmobachir"
+    "status": 0,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.tlfazat.batmxbachir"
   },
   "settings": {
     "id": 1,
@@ -27,9 +27,9 @@
   },
   "ads": {
     "id": 1,
-    "ad_status": "off",
-        "ad_type":"startapp",
-        "backup_ads":"admob",
+    "ad_status": "on",
+        "ad_type":"applovin",
+        "backup_ads":"unity",
         "admob_publisher_id":"pub-2742207963022064",
         "admob_app_id":"ca-app-pub-2742207963022064~6751554066",
         "admob_banner_unit_id":"ca-app-pub-2742207963022064/7608258594",
@@ -44,9 +44,9 @@
         "fan_interstitial_unit_id":"541044257517865_541841547438136",
         "fan_native_unit_id":"541044257517865_541841697438121",
         "startapp_app_id":123456789,
-        "unity_game_id":0,
-        "unity_banner_placement_id":0,
-        "unity_interstitial_placement_id":0,
+        "unity_game_id":5011865,
+        "unity_banner_placement_id":Banner_Android,
+        "unity_interstitial_placement_id":Interstitial_Android,
         "applovin_banner_ad_unit_id":"85edc1327d50cc89",
         "applovin_interstitial_ad_unit_id":"afa06b4f72db2319",
         "applovin_native_ad_manual_unit_id":"2becf7fdc3c90a34",
