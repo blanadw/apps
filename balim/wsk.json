@@ -28,8 +28,8 @@
   "ads": {
     "id": 1,
     "ad_status": "on",
-        "ad_type":"admob",
-        "backup_ads":"admob",
+        "ad_type":"ironsource",
+        "backup_ads":"unity",
         "admob_publisher_id":"pub-2742207963022064",
         "admob_app_id":"ca-app-pub-2742207963022064~6751554066",
         "admob_banner_unit_id":"ca-app-pub-2742207963022064/7608258594",
